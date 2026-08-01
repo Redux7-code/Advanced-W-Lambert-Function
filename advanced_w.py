@@ -92,7 +92,8 @@ if __name__ == "__main__":
 			entries.result.config(state="readonly")
 
 	calculate_button = tkinter.Button(window, text="Calculate", command=calculate)
-
+	
+	# DISCLAIMER: AI was used for the placement of these elements.
 	title.place(x=170, y=20)
 
 	labels.base.place(x=145, y=115)
